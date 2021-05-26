@@ -5,10 +5,5 @@
 </p>
 
 - 🔭 I’m currently working on **SZ**
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+<!-- - ⚡ Fun fact: Big Fan of the :zap: emoji -->
 
--------
-
-
-
--------
